@@ -840,6 +840,7 @@ p {
 /*------ footer ------- */
 footer {
   padding:20px 0;
+  background-color: rgba(105,105,105,0.70);
 }
 .privacy {
   color: #1a1a1a;

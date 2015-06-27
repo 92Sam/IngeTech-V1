@@ -81,7 +81,7 @@ Template Monster`s Framework Styles
   /* hovers */
 .tm_view {width: 100%;height: auto;margin:0  0 15px 0;position: relative;text-align: center;cursor: default;background: #fff;overflow:hidden; font-size:12px; line-height:15px;}
 .tm_view .tm_mask, .tm_view .tm_content {width: 100%;height: 100%;position: absolute;overflow: hidden;top: 0;left: 0; right: 0; bottom: 0;}
-.tm_view img {display: block;position: relative;}
+.tm_view img {display: block;position: relative; width: 100%; height: 250px;}
 .tm_view h2 {text-transform: uppercase;color: #fff;text-align: center;position: relative;font-size: 17px;padding: 10px;background: rgba(0, 0, 0, 0.8);margin: 10% 0 0 0}
 .tm_view p {font-family: Georgia, serif;font-style: italic;font-size: 12px;position: relative;color: #fff;padding: 10px 20px 20px;text-align: center; margin: 0;}
 .tm_view a.btn {display: inline-block;text-decoration: none;padding: 7px 14px;background: #000;color: #fff;text-transform: uppercase;box-shadow: 0 0 1px #000; border:none; border-radius:0; text-shadow:none;-webkit-transition:all 0.5s ease;-moz-transition:all 0.5s ease;-o-transition:all 0.5s ease;transition:all 0.5s ease;}
